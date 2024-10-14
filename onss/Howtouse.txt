@@ -1,0 +1,35 @@
+Online Notes Sharing System using PHP and MySQL
+
+“Online Notes Sharing System Project” is a web based technology that manages user and notes database and provides rights to update their details and notes. In this web application user must be registered. Online Notes Sharing management System Project web application provides a way to effectively control record & track the user details who himself/herself registered with us.
+
+Project Modules
+In Online Notes Sharing management System project, there is one module user
+
+User:
+
+Dashboard: This is welcome page of registered users, user can briefly view total number of notes uploaded.
+Notes: In this section, user can add, update and delete the notes which they want to share.
+Profile:  User can update his/her profile.
+Change Password: User can update/his/her account password.
+
+How to run the Online Notes Sharing System Project using PHP and MySQL
+1. Download the project zip file
+
+2. Extract the file and copy onss  folder
+
+3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/Html)
+
+4.Open PHPMyAdmin (http://localhost/phpmyadmin)
+
+5. Create a database with the name  onssdb
+
+6. Import onssdb.sql file(given inside the zip package in SQL file folder)
+
+7. Run the script http://localhost/onss
+
+Credential for Employee/User panel :
+
+Username: john12@gmail.com
+Password: Test@123
+
+or Register a new user.
