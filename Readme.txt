@@ -1,22 +1,18 @@
-How to run the Online Notes Sharing System Project using PHP and MySQL
+# How to Run the Online Notes Sharing System Project Using PHP and MySQL
 
-1. Download the project zip file
+1. **Download the project zip file.**
+2. **Extract the file and copy the `onss` folder.**
+3. **Paste inside the root directory:**
+   - For XAMPP: `xampp/htdocs`
+   - For WAMP: `wamp/www`
+   - For LAMP: `var/www/html`
+4. **Open PHPMyAdmin**: [http://localhost/phpmyadmin](http://localhost/phpmyadmin)
+5. **Create a database** with the name `onssdb`.
+6. **Import `onssdb.sql` file** (found inside the zip package in the SQL file folder).
+7. **Run the script**: [http://localhost/onss](http://localhost/onss)
 
-2. Extract the file and copy onss  folder
+## Credentials for Employee/User Panel:
+- **Username**: `john12@gmail.com`
+- **Password**: `Test@123`
 
-3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/Html)
-
-4.Open PHPMyAdmin (http://localhost/phpmyadmin)
-
-5. Create a database with the name  onssdb
-
-6. Import onssdb.sql file(given inside the zip package in SQL file folder)
-
-7. Run the script http://localhost/onss
-
-Credential for Employee/User panel :
-
-Username: john12@gmail.com
-Password: Test@123
-
-or Register a new user.
+*Alternatively, register a new user.*
