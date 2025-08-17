@@ -5,7 +5,6 @@ This project is a **PHP and MySQL-based application** for managing and sharing n
 ---
 
 ## 🎥 Output Preview  
-*yaaaha woh onssop.gif*  
 ![ONSS Output](onssop.gif)  
 
 ---
